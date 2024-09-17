@@ -1,0 +1,44 @@
+
+.viewBtn{
+    background-color: #c4da4c;
+    height: 30px;
+    font-weight: 600;
+}
+.DeleteBtn{
+    background-color: #e66d1c;
+    height: 30px;
+    margin-left: 4px;
+    font-weight: 600;
+}
+html,
+body,
+.intro {
+  height: 100%;
+}
+
+table td,
+table th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+thead th {
+  color: #fff;
+}
+
+.card {
+  border-radius: .5rem;
+}
+
+.table-scroll {
+  border-radius: .5rem;
+}
+
+.table-scroll table thead th {
+  font-size: 1.25rem;
+}
+thead {
+  top: 0;
+  position: sticky;
+}
